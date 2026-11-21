@@ -2,6 +2,8 @@
 
 Pick parts and watch them fly into a live 3D case. RigForge checks compatibility and power, estimates FPS, and syncs ARGB lighting across every fan, RAM stick and strip.
 
+**Live:** https://braveottoman.github.io/pc-builder/ — every push to `main` redeploys it via GitHub Actions.
+
 ## Run it
 
 ```
