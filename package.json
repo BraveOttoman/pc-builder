@@ -1,0 +1,12 @@
+{
+  "name": "rigforge",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Immersive 3D PC builder: pick parts, check compatibility, watch the rig assemble",
+  "engines": { "node": ">=18" },
+  "scripts": {
+    "dev": "node server.mjs",
+    "start": "node server.mjs"
+  }
+}
